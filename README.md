@@ -1,8 +1,8 @@
-### Hi there 👋
+### 👉 宠辱不惊，看庭前花开花落；去留无意，望天上云卷云舒。
 
 <!--
 **davidkoojohn/davidkoojohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
